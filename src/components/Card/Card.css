@@ -1,0 +1,34 @@
+.cardimg {
+  width: 250px;
+  margin: 30px;
+  box-shadow: 7px 7px 7px grey, 7px 7px 7px grey;
+}
+
+.card {
+  padding: 2rem;
+}
+
+.name {
+  color: brown;
+}
+
+.desc {
+  margin: 10px;
+}
+
+.button {
+  padding: 15px;
+  border-radius: 10px;
+  border: none;
+  font-size: 18px;
+  margin: 15px;
+  cursor: pointer;
+}
+
+.button:hover {
+  transform: scale(1.2);
+}
+
+.button:active {
+  box-shadow: 5px 5px 10px 5px grey;
+}
